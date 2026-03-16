@@ -1,8 +1,11 @@
 # Hi everyone!
 
 Hi, I'm Aldo, a Mechatronics Engineer from UNI with experience in AI, quantitative modeling, and automation.
+
 I currently work as a Jr. Investment Analyst at Interseguro, where I build quantitative models and GenAI-based tools to support portfolio analysis and decision-making.
+
 Before that, I was a Research Assistant at the University of Delaware, working on computer vision and generative AI for medical imaging, including diffusion models for 3D CT reconstruction.
+
 My main interests are applied machine learning, data science, and building tools that connect research with real-world applications.
 
 ## Connect with me
