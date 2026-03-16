@@ -1,9 +1,9 @@
 # Hi everyone!
 
-My name is **Aldo**. I’m a **Mechatronics Engineer (UNI, Peru)** with a strong interest in building practical solutions at the intersection of **AI/ML**, **GenAI agents**, **automation**, and **quantitative analysis**.
-
-Right now I’m a **Jr. Investment Analyst** at **Interseguro**, building **quantitative models** and **GenAI** tools to support faster, better-informed decisions. 
-Before that, I was a **Research Assistant** at the **University of Delaware**, working on **Computer Vision** and **Generative AI** for medical imaging using **Diffusion Models** for 3D CT reconstruction.
+Hi, I'm Aldo, a Mechatronics Engineer from UNI with experience in AI, quantitative modeling, and automation.
+I currently work as a Jr. Investment Analyst at Interseguro, where I build quantitative models and GenAI-based tools to support portfolio analysis and decision-making.
+Before that, I was a Research Assistant at the University of Delaware, working on computer vision and generative AI for medical imaging, including diffusion models for 3D CT reconstruction.
+My main interests are applied machine learning, data science, and building tools that connect research with real-world applications.
 
 ## Connect with me
 - **LinkedIn:** https://www.linkedin.com/in/aldofelix/
